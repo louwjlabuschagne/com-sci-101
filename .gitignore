@@ -13,6 +13,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+.vscode/
+
 # Package Files #
 *.jar
 *.war
